@@ -1,6 +1,6 @@
 # Title
 
-    █▓▒▒░░░#SocioBlog░░░▒▒▓█
+    █▓▒▒░░░##[SocioBlog]░░░▒▒▓█
 
 ## Objective
 
