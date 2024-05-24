@@ -8,6 +8,11 @@
     read what you have to say. The ultimate goal, of Project, is to become more and more successful through your blog 
     and how effectively it touches other people.
 
+## Demo
+    React.App.-.Google.Chrome.2024-05-24.20-20-27.online-video-cutter.com.mp4
+    
+    https://github.com/j-swaroop/full-stack-blog/assets/133971855/c6d8d20e-af93-44e1-91c6-9040a8d3f2cd
+
 ## Tech Stack
 
     BACKEND: 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙴𝚡𝚙𝚛𝚎𝚜𝚜.𝚓𝚜, 𝙼𝚢𝚂𝚀𝙻, 𝙼𝚢𝚂𝚀𝙻 𝚆𝚘𝚛𝚔𝚋𝚎𝚗𝚌𝚑, 𝚂𝚎𝚚𝚞𝚎𝚕𝚒𝚣𝚎, 𝙱𝚌𝚛𝚢𝚙𝚝,𝙹𝚜𝚘𝚗𝚆𝚎𝚋𝚃𝚘𝚔𝚎𝚗
