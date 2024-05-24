@@ -84,7 +84,7 @@
 
 ### Design files
 
-    https://github.com/j-swaroop/full-stack-blog/issues/1#issue-2315367646
+   ![login](<FireShot/FireShot Capture 060 - React App - blog-app-sand-eight.vercel.app.png>)
 
 ### Third-party packages
 
