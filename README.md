@@ -9,9 +9,8 @@
     and how effectively it touches other people.
 
 ## Demo
-    React.App.-.Google.Chrome.2024-05-24.20-20-27.online-video-cutter.com.mp4
-    
-    https://github.com/j-swaroop/full-stack-blog/assets/133971855/c6d8d20e-af93-44e1-91c6-9040a8d3f2cd
+  
+https://github.com/j-swaroop/full-stack-blog/assets/133971855/c6d8d20e-af93-44e1-91c6-9040a8d3f2cd
 
 ## Tech Stack
 
