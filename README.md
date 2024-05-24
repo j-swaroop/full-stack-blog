@@ -84,8 +84,7 @@
 
 ### Design files
 
-   ![login](<FireShot/FireShot Capture 060 - React App - blog-app-sand-eight.vercel.app.png>)
-
+  https://private-user-images.githubusercontent.com/133971855/333596210-bfa45881-1164-4a05-8618-a071dfc479e0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1NTY2OTQsIm5iZiI6MTcxNjU1NjM5NCwicGF0aCI6Ii8xMzM5NzE4NTUvMzMzNTk2MjEwLWJmYTQ1ODgxLTExNjQtNGEwNS04NjE4LWEwNzFkZmM0NzllMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNFQxMzEzMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmM4Y2UzNjVjNzU5ZTQ2OTA2NjM4ZTBkNDNmN2I3YmM2NWE5NTdhZmZjMzBkMzkxZTA4YmUwMWQ4YmE0YjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E1_MoRqynTnDiZ2pOwtAkH7l5hPAHHG5Jw_mvlFGPBg
 ### Third-party packages
 
     Sequelize, Bcrypt, jsonwebtoken, mysql2, react-loader-spinner, react-router-dom, Cookies, Formik and Yup etc..
