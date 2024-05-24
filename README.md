@@ -84,9 +84,7 @@
 
 ### Design files
 
-    List the references of design files required for the Assignment
-
-![alt text](<FireShot/FireShot Capture 060 - React App - blog-app-sand-eight.vercel.app.png>)
+    https://github.com/j-swaroop/full-stack-blog/issues/1#issue-2315367646
 
 ### Third-party packages
 
