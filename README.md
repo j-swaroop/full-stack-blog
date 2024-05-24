@@ -84,7 +84,8 @@
 
 ### Design files
 
- https://github.com/j-swaroop/full-stack-blog/assets/133971855/bfa45881-1164-4a05-8618-a071dfc479e0
+![FireShot Capture 055 - React App - blog-app-sand-eight vercel app](https://github.com/j-swaroop/full-stack-blog/assets/133971855/bfa45881-1164-4a05-8618-a071dfc479e0)
+
 ### Third-party packages
 
     Sequelize, Bcrypt, jsonwebtoken, mysql2, react-loader-spinner, react-router-dom, Cookies, Formik and Yup etc..
